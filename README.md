@@ -1,0 +1,2 @@
+# tomagatchi
+issa tomagatchi
